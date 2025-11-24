@@ -1,37 +1,41 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=68217A&center=true&vCenter=true&width=600&lines=Привет+👋+Меня+зовут+Анатолий!;C%23+Разработчик;" alt="Typing SVG" />
 </div>
 
+## 🎯 Обо мне
 
-**🎯 Обо мне**
-
-🔭 Изучаю .NET, ASP.NET Core и разработку для Windows
-🚀 Увлекаюсь созданием десктопных приложений и бэкенда
+🔭 Изучаю .NET, ASP.NET Core и разработку для Windows  
+🚀 Увлекаюсь созданием десктопных приложений и бэкенда  
 👨‍💻 Стремлюсь к созданию чистого и эффективного кода
 
-**🛠️ Технологии и инструменты**
+## 🛠️ Технологии и инструменты
 
 <div align="center">
 
-https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
-https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
-https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
-**🚀 Мои проекты**
+## 🚀 Мои проекты
 
-**📫 Связь со мной**
+*🔨 Скоро здесь появятся мои проекты...*
+
+<!-- Добавь сюда свои проекты когда будут готовы:
+- **[Название проекта](ссылка)** - Описание проекта `C#` `.NET`
+-->
+
+## 📫 Связь со мной
 
 <div align="center">
 
-mailto:anatoliyvolkov509@gmail.com
-https://t.me/An_de_Vol
-https://github.com/AnatoliyVolkov
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anatoliyvolkov509@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/An_de_Vol)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnatoliyVolkov)
 
 </div>
 
@@ -43,8 +47,6 @@ https://github.com/AnatoliyVolkov
 
 </div>
 
-<br>
-
 ## 📈 График активности
 
 <div align="center">
@@ -53,20 +55,22 @@ https://github.com/AnatoliyVolkov
 
 </div>
 
-**📊 Статистика GitHub**
+## 📊 Статистика GitHub
 
 <div align="center">
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyVolkov&theme=github_dark
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnatoliyVolkov&theme=github_dark
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnatoliyVolkov&theme=github_dark
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnatoliyVolkov&theme=github_dark
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnatoliyVolkov&theme=github_dark
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyVolkov&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnatoliyVolkov&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnatoliyVolkov&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnatoliyVolkov&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnatoliyVolkov&theme=github_dark)
 
 </div>
 
+---
+
 <div align="center">
 
-https://visitcount.itsvg.in
+[![](https://visitcount.itsvg.in/api?id=AnatoliyVolkov&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
