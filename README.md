@@ -3,7 +3,7 @@
 💻 **C# Разработчик**  
 
 
-![.NET](https://media.giphy.com/media/ ZVik7pBtu9dNS/giphy.gif)
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpV4r/giphy.gif)
 
 
 
