@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=68217A&center=true&vCenter=true&width=600&lines=Привет+👋+Меня+зовут+Анатолий!;C%23+Разработчик;.NET+Энтузиаст;Создаю+качественные+приложения" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=68217A&center=true&vCenter=true&width=600&lines=Привет+👋+Меня+зовут+Анатолий!;C%23+Разработчик;" alt="Typing SVG" />
 </div>
 
 
@@ -15,13 +15,17 @@
 ### 🎓 Изучаю:
 - 🎮 Разработка desktop приложений на WPF
 - 🌐 Изучение ASP.NET Core MVC
+- 🐳 Docker & Kubernetes
+- 🔄 CI/CD практики
 
 </td>
 <td width="50%">
 
 ### 💡 Интересуюсь:
-- Docker & Kubernetes
-- CI/CD практики
+- Микросервисной архитектурой
+- Cloud технологиями
+- Code Quality & Best Practices
+- Автоматизацией процессов
 
 </td>
 </tr>
@@ -60,24 +64,24 @@
 
 **Backend разработка:**
 
-![C#](https://img.shields.io/badge/C%23-⭐⭐⭐⭐⭐-239120?style=flat-square&labelColor=1a1a1a)
-![.NET](https://img.shields.io/badge/.NET-⭐⭐⭐⭐-512BD4?style=flat-square&labelColor=1a1a1a)
+![C#](https://img.shields.io/badge/C%23-⭐⭐⭐⭐⭐-239120?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-⭐⭐⭐⭐-512BD4?style=flat-square)
 
 **Desktop разработка:**
 
-![WinForms](https://img.shields.io/badge/WinForms-⭐⭐⭐-239120?style=flat-square&labelColor=1a1a1a)
+![WinForms](https://img.shields.io/badge/WinForms-⭐⭐⭐-239120?style=flat-square)
 
 </td>
 <td width="50%">
 
 **Базы данных:**
 
-![MySQL](https://img.shields.io/badge/MySQL-⭐⭐⭐⭐-4479A1?style=flat-square&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-⭐⭐⭐⭐-4479A1?style=flat-square)
 
 **Инструменты:**
 
-![Git](https://img.shields.io/badge/Git-⭐⭐⭐⭐-F05033?style=flat-square&labelColor=1a1a1a)
-![Visual Studio](https://img.shields.io/badge/VS-⭐⭐⭐⭐⭐-5C2D91?style=flat-square&labelColor=1a1a1a)
+![Git](https://img.shields.io/badge/Git-⭐⭐⭐⭐-F05033?style=flat-square)
+![Visual Studio](https://img.shields.io/badge/VS-⭐⭐⭐⭐⭐-5C2D91?style=flat-square)
 
 </td>
 </tr>
@@ -95,10 +99,6 @@
 <!-- 
 Когда будут готовы проекты, раскомментируйте и заполните:
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🎯 [Название проекта 1](ссылка)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -109,24 +109,6 @@
 - ⚡ Быстродействие
 - 🎨 Современный UI
 - 🔒 Безопасность
-
-</td>
-<td width="50%">
-
-### 📱 [Название проекта 2](ссылка)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Описание второго проекта
-
-**🌟 Технологии:**
-- ASP.NET Core MVC
-- Entity Framework
-- MySQL Database
-
-</td>
-</tr>
-</table>
 -->
 
 </div>
@@ -179,22 +161,10 @@
 
 </div>
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
 
 ### 💖 Спасибо за визит!
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=AnatoliyVolkov&icon=5&color=6)
-
-**"Код — это поэзия в движении"** 🚀
 
 </div>
