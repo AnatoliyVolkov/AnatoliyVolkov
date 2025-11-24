@@ -2,10 +2,11 @@
 
 💻 **C# Разработчик**  
 
-<div align="center">
+
+  
 ![C# Code](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif))
 
-</div>
+
 
 ## 🎯 Обо мне
 🔭 Изучаю .NET, ASP.NET Core и разработку для Windows  
