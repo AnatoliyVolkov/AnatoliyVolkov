@@ -4,132 +4,36 @@
 </div>
 
 
-<br>
+**🎯 Обо мне**
 
-## 🎯 Обо мне
+🔭 Изучаю .NET, ASP.NET Core и разработку для Windows
+🚀 Увлекаюсь созданием десктопных приложений и бэкенда
+👨‍💻 Стремлюсь к созданию чистого и эффективного кода
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Изучаю:
-- 🎮 Разработка desktop приложений на WPF
-- 🌐 Изучение ASP.NET Core MVC
-- 🐳 Docker & Kubernetes
-- 🔄 CI/CD практики
-
-</td>
-<td width="50%">
-
-### 💡 Интересуюсь:
-- Микросервисной архитектурой
-- Cloud технологиями
-- Code Quality & Best Practices
-- Автоматизацией процессов
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🛠️ Технологии и инструменты
+**🛠️ Технологии и инструменты**
 
 <div align="center">
 
-### Языки и фреймворки
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Базы данных
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Инструменты разработки
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
+https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 
 </div>
 
-<br>
+**🚀 Мои проекты**
 
-## 💪 Навыки
-
-<table>
-<tr>
-<td width="50%">
-
-**Backend разработка:**
-
-![C#](https://img.shields.io/badge/C%23-⭐⭐⭐⭐⭐-239120?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-⭐⭐⭐⭐-512BD4?style=flat-square)
-
-**Desktop разработка:**
-
-![WinForms](https://img.shields.io/badge/WinForms-⭐⭐⭐-239120?style=flat-square)
-
-</td>
-<td width="50%">
-
-**Базы данных:**
-
-![MySQL](https://img.shields.io/badge/MySQL-⭐⭐⭐⭐-4479A1?style=flat-square)
-
-**Инструменты:**
-
-![Git](https://img.shields.io/badge/Git-⭐⭐⭐⭐-F05033?style=flat-square)
-![Visual Studio](https://img.shields.io/badge/VS-⭐⭐⭐⭐⭐-5C2D91?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🚀 Мои проекты
+**📫 Связь со мной**
 
 <div align="center">
 
-### 🔨 В процессе разработки...
-*Совсем скоро здесь появятся интересные проекты!*
-
-<!-- 
-Когда будут готовы проекты, раскомментируйте и заполните:
-
-### 🎯 [Название проекта 1](ссылка)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-Краткое описание проекта - что он делает, какие технологии использованы
-
-**🔧 Ключевые особенности:**
-- ⚡ Быстродействие
-- 🎨 Современный UI
-- 🔒 Безопасность
--->
+mailto:anatoliyvolkov509@gmail.com
+https://t.me/An_de_Vol
+https://github.com/AnatoliyVolkov
 
 </div>
-
-<br>
-
-## 📊 Статистика GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnatoliyVolkov&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnatoliyVolkov&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyVolkov&theme=github_dark" alt="Profile Details" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliyVolkov&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnatoliyVolkov&theme=github_dark" alt="Productive Time" />
-
-</div>
-
-<br>
 
 ## 🏆 Достижения GitHub
 
@@ -149,22 +53,20 @@
 
 </div>
 
-<br>
-
-## 📫 Связь со мной
+**📊 Статистика GitHub**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anatoliyvolkov509@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/An_de_Vol)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnatoliyVolkov)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyVolkov&theme=github_dark
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnatoliyVolkov&theme=github_dark
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnatoliyVolkov&theme=github_dark
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnatoliyVolkov&theme=github_dark
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnatoliyVolkov&theme=github_dark
 
 </div>
 
----
-
 <div align="center">
 
-### 💖 Спасибо за визит!
+https://visitcount.itsvg.in
 
 </div>
