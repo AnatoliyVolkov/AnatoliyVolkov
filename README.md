@@ -1,50 +1,39 @@
-# Привет, меня зовут Анатолий! 👋
+# Привет 👋 Меня зовут Анатолий!
 
 💻 **C# Разработчик**  
-🎯 Изучаю .NET, ASP.NET Core и разработку для Windows  
-🚀 Увлекаюсь созданием десктопных приложений и бэкенда  
+
+🔭 Изучаю .NET, ASP.NET Core и разработку для Windows  
+🚀 Увлекаюсь созданием десктопных приложений и бэкенда
 
 ## 🛠️ Технологии и инструменты
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  </a>
-</p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🚀 Мои проекты
 
-- **[Genly/distCon_Remote](https://github.com/AnatoliyVolkov/Genly/distCon_Remote)** - C# проект для удаленного управления соединениями
-- **[Neural Network from Scratch](https://github.com/AnatoliyVolkov/Neural-Network-from-Scratch)** - Реализация нейросети на Python
-- **[Telegram Currency Bot](https://github.com/AnatoliyVolkov/Telegram-Currency-Bot)** - Бот для отслеживания курсов валют
+### C# проекты
 
 ## 📫 Связь со мной
 
-- **Email:** [anatoliyvolkov509@gmail.com](mailto:anatoliyvolkov509@gmail.com)
-- **Резервный email:** [anatoliy.irl@yandex.ru](mailto:anatoliy.irl@yandex.ru)
-- **GitHub:** [AnatoliyVolkov](https://github.com/AnatoliyVolkov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anatoliyvolkov509@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@An_de_Vol)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnatoliyVolkov)
 
-## 📊 Статистика
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnatoliyVolkov&show_icons=true&hide=commits,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliyVolkov&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)
-  
-</div>
+# 📊 Статистика GitHub
+![](https://github-readme-stats.vercel.app/api?username=anatoliyvolkov&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anatoliyvolkov&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anatoliyvolkov&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anatoliyvolkov&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=anatoliyvolkov&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
