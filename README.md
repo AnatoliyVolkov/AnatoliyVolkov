@@ -18,8 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-%23E34F26.svg?style=for-the-badge&logo=windows&logoColor=white)
-
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-%23239120.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
