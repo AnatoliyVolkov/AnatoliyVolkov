@@ -2,8 +2,7 @@
 
 💻 **C# Разработчик**  
 
-
-![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpV4r/giphy.gif)
+![Digital](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 
 
