@@ -2,7 +2,11 @@
 
 💻 **C# Разработчик**  
 
-![Digital](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+<div align="center">
+
+![C# Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+</div>
 
 
 
