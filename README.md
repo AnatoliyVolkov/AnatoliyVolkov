@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![C# Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Developer](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 
 </div>
 
