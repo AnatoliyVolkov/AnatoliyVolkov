@@ -1,10 +1,9 @@
+**Привет 👋 Меня зовут Анатолий!**
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=68217A&center=true&vCenter=true&width=600&lines=Привет+👋+Меня+зовут+Анатолий!;C%23+Разработчик;.NET+Энтузиаст;Создаю+качественные+приложения" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Developer Animation"/>
-</div>
 
 <br>
 
@@ -14,30 +13,16 @@
 <tr>
 <td width="50%">
 
-### 🔥 Сейчас работаю над:
+### 🎓 Изучаю:
 - 🎮 Разработка desktop приложений на WPF
 - 🌐 Изучение ASP.NET Core MVC
-- 📚 Углубленное изучение паттернов проектирования
-
-### 🎓 Изучаю:
-- Entity Framework Core
-- Clean Architecture
-- SOLID принципы
-- Unit Testing (xUnit)
 
 </td>
 <td width="50%">
 
 ### 💡 Интересуюсь:
-- Микросервисная архитектура
 - Docker & Kubernetes
 - CI/CD практики
-- Azure Cloud Services
-
-### 🎯 Цели на 2024:
-- ✅ Освоить ASP.NET Core Web API
-- 🔄 Создать Portfolio проект
-- 📖 Получить сертификат Microsoft
 
 </td>
 </tr>
@@ -57,7 +42,6 @@
 
 ### Базы данных
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Инструменты разработки
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -79,11 +63,9 @@
 
 ![C#](https://img.shields.io/badge/C%23-⭐⭐⭐⭐⭐-239120?style=flat-square&labelColor=1a1a1a)
 ![.NET](https://img.shields.io/badge/.NET-⭐⭐⭐⭐-512BD4?style=flat-square&labelColor=1a1a1a)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-⭐⭐⭐-5C2D91?style=flat-square&labelColor=1a1a1a)
 
 **Desktop разработка:**
 
-![WPF](https://img.shields.io/badge/WPF-⭐⭐⭐⭐-239120?style=flat-square&labelColor=1a1a1a)
 ![WinForms](https://img.shields.io/badge/WinForms-⭐⭐⭐-239120?style=flat-square&labelColor=1a1a1a)
 
 </td>
@@ -92,7 +74,6 @@
 **Базы данных:**
 
 ![MySQL](https://img.shields.io/badge/MySQL-⭐⭐⭐⭐-4479A1?style=flat-square&labelColor=1a1a1a)
-![SQL Server](https://img.shields.io/badge/SQL_Server-⭐⭐⭐-CC2927?style=flat-square&labelColor=1a1a1a)
 
 **Инструменты:**
 
@@ -198,10 +179,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnatoliyVolkov)
 
 </div>
-
-<br>
-
-## 💭 Случайная цитата для разработчиков
 
 <div align="center">
 
