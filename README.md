@@ -1,4 +1,3 @@
-**Привет 👋 Меня зовут Анатолий!**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=68217A&center=true&vCenter=true&width=600&lines=Привет+👋+Меня+зовут+Анатолий!;C%23+Разработчик;.NET+Энтузиаст;Создаю+качественные+приложения" alt="Typing SVG" />
