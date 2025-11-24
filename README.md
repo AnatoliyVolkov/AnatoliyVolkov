@@ -19,6 +19,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
+![C#](https://img.shields.io/badge/C%23-⭐⭐⭐⭐⭐-239120?style=flat-square&labelColor=1a1a1a)
+![.NET](https://img.shields.io/badge/.NET-⭐⭐⭐⭐-512BD4?style=flat-square&labelColor=1a1a1a)
 </div>
 
 ## 🚀 Мои проекты
