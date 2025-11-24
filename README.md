@@ -2,6 +2,10 @@
 
 💻 **C# Разработчик**  
 
+
+[![C# Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)](https://github.com/AnatoliyVolkov)
+
+
 🔭 Изучаю .NET, ASP.NET Core и разработку для Windows  
 🚀 Увлекаюсь созданием десктопных приложений и бэкенда
 
