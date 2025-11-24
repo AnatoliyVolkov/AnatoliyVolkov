@@ -20,7 +20,6 @@
 
 ## 🚀 Мои проекты
 
-### C# проекты
 
 ## 📫 Связь со мной
 
@@ -28,6 +27,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@An_de_Vol)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnatoliyVolkov)
 
+[![DotNet Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)](https://github.com/AnatoliyVolkov)
 
 # 📊 Статистика GitHub
 ![](https://github-readme-stats.vercel.app/api?username=anatoliyvolkov&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
