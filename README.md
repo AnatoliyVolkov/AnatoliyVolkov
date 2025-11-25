@@ -44,8 +44,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnatoliyVolkov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnatoliyVolkov&theme=tokyonight&hide_border=true" />
+![Stars](https://img.shields.io/badge/⭐_Звезды-0-yellow?style=flat-square)
+![Followers](https://img.shields.io/badge/👥_Подписчики-0-blue?style=flat-square)
+![Repos](https://img.shields.io/badge/📦_Репозитории-0-green?style=flat-square)
 
 </div>
 
