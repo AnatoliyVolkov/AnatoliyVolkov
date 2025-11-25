@@ -47,8 +47,6 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnatoliyVolkov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnatoliyVolkov&theme=tokyonight&hide_border=true" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnatoliyVolkov&custom_title=📊%20Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true" />
-
 </div>
 
 ## 📈 График активности
